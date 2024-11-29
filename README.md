@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/jeqwycgk95h90ilc?svg=true)](https://ci.appveyor.com/project/SemenPershin/ahj-homeworks-http-server)
